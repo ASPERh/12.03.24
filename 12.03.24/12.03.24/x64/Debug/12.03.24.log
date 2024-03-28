@@ -1,0 +1,3 @@
+﻿  stu.cpp
+C:\Users\ASPER\source\repos\12.03.24\12.03.24\stu.cpp(70,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  12.03.24.vcxproj -> C:\Users\ASPER\source\repos\12.03.24\x64\Debug\12.03.24.exe
